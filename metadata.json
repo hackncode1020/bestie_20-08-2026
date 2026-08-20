@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Bestie",
+  "description": "An interactive Happy Birthday website for your bestie featuring photo memories, interactive evil eye talisman, drawing canvas, surprise gifts, interactive cake, and AI birthday tributes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
